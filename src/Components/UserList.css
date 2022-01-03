@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+li,ul{
+    background-color: white;
+    list-style-type:none;
+}
+h3{
+    background-color:white;
+}
+
+
+
+
